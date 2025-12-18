@@ -1,6 +1,6 @@
 # BOT AMBIENT
 
-![Fitur Ambient](Ambient.png)
+![Fitur Ambient](Ambient.jpg)
 
 **Fitur:**
 
