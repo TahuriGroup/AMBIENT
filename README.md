@@ -33,9 +33,9 @@ Before running this project, make sure you have installed:
 3. **Add your accounts in the account.txt file. Example:**
 
     ```plaintext
-   email@gmail.com|12345
-    email@gmail.com|12345
-    email@gmail.com|12345
+   email@gmail.com|pass12345
+    email@gmail.com|pass12345
+    email@gmail.com|pass12345
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
